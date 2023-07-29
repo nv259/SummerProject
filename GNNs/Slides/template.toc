@@ -1,0 +1,12 @@
+\beamer@sectionintoc {2}{Fantastic Graphs and Where to Find Them}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{What is a Graph?}{3}{0}{1}
+\beamer@subsectionintoc {2}{2}{Where to Find them?}{13}{0}{1}
+\beamer@subsectionintoc {2}{3}{What Tasks to Perform on Graphs?}{20}{0}{1}
+\beamer@subsectionintoc {2}{4}{The challenges of using graphs in ML}{35}{0}{1}
+\beamer@sectionintoc {3}{Graph Neural Networks}{40}{0}{2}
+\beamer@subsectionintoc {3}{1}{The simplest GNN}{40}{0}{2}
+\beamer@subsectionintoc {3}{2}{GNN Predictions by Pooling Information}{42}{0}{2}
+\beamer@subsectionintoc {3}{3}{Passing messages between parts of the graph}{54}{0}{2}
+\beamer@sectionintoc {4}{Into the Weeds}{63}{0}{3}
+\beamer@subsectionintoc {4}{1}{Other types of graphs}{64}{0}{3}
+\beamer@subsectionintoc {4}{2}{Sampling Graphs and Batching in GNNs}{65}{0}{3}

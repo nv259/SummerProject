@@ -1,0 +1,2602 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.7.29)  29 JUL 2023 17:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./template.tex
+(template.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
+Document Class: beamer 2023/05/15 v3.70 A class for typesetting presentations
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemodes.
+sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+\beamer@tempbox=\box51
+\beamer@tempcount=\count186
+\c@beamerpauses=\count187
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasedecode
+.sty
+\beamer@slideinframe=\count188
+\beamer@minimum=\count189
+\beamer@decode@box=\box52
+)
+\beamer@commentbox=\box53
+\beamer@modecount=\count190
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+\headdp=\dimen140
+\footheight=\dimen141
+\sidebarheight=\dimen142
+\beamer@tempdim=\dimen143
+\beamer@finalheight=\dimen144
+\beamer@animht=\dimen145
+\beamer@animdp=\dimen146
+\beamer@animwd=\dimen147
+\beamer@leftmargin=\dimen148
+\beamer@rightmargin=\dimen149
+\beamer@leftsidebar=\dimen150
+\beamer@rightsidebar=\dimen151
+\beamer@boxsize=\dimen152
+\beamer@vboxoffset=\dimen153
+\beamer@descdefault=\dimen154
+\beamer@descriptionwidth=\dimen155
+\beamer@lastskip=\skip48
+\beamer@areabox=\box54
+\beamer@animcurrent=\box55
+\beamer@animshowbox=\box56
+\beamer@sectionbox=\box57
+\beamer@logobox=\box58
+\beamer@linebox=\box59
+\beamer@sectioncount=\count191
+\beamer@subsubsectionmax=\count192
+\beamer@subsectionmax=\count193
+\beamer@sectionmax=\count194
+\beamer@totalheads=\count195
+\beamer@headcounter=\count196
+\beamer@partstartpage=\count197
+\beamer@sectionstartpage=\count198
+\beamer@subsectionstartpage=\count199
+\beamer@animationtempa=\count266
+\beamer@animationtempb=\count267
+\beamer@xpos=\count268
+\beamer@ypos=\count269
+\beamer@ypos@offset=\count270
+\beamer@showpartnumber=\count271
+\beamer@currentsubsection=\count272
+\beamer@coveringdepth=\count273
+\beamer@sectionadjust=\count274
+\beamer@toclastsection=\count275
+\beamer@tocsectionnumber=\count276
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoption
+s.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+))
+\beamer@paperwidth=\skip49
+\beamer@paperheight=\skip50
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count277
+\Gm@cntv=\count278
+\c@Gm@tempcnt=\count279
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks18
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box60
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex
+\pgf@x=\dimen166
+\pgf@xa=\dimen167
+\pgf@xb=\dimen168
+\pgf@xc=\dimen169
+\pgf@y=\dimen170
+\pgf@ya=\dimen171
+\pgf@yb=\dimen172
+\pgf@yc=\dimen173
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count284
+\pgfmath@box=\box61
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen175
+\Gin@req@width=\dimen176
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count290
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count291
+\pgfsyssoftpath@bigbuffer@items=\count292
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen187
+\pgf@picmaxx=\dimen188
+\pgf@picminy=\dimen189
+\pgf@picmaxy=\dimen190
+\pgf@pathminx=\dimen191
+\pgf@pathmaxx=\dimen192
+\pgf@pathminy=\dimen193
+\pgf@pathmaxy=\dimen194
+\pgf@xx=\dimen195
+\pgf@xy=\dimen196
+\pgf@yx=\dimen197
+\pgf@yy=\dimen198
+\pgf@zx=\dimen199
+\pgf@zy=\dimen256
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen257
+\pgf@path@lasty=\dimen258
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen259
+\pgf@shorten@start@additional=\dimen260
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count293
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen261
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen262
+\pgf@pt@y=\dimen263
+\pgf@pt@temp=\dimen264
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen265
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen266
+\pgf@sys@shading@range@num=\count294
+\pgf@shadingcount=\count295
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box65
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\xxcolor.s
+ty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count296
+\XC@countmixins=\count297
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
+)
+\@linkdim=\dimen267
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4050.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4050.
+Package hyperref Info: Option `implicit' set `false' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count302
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen268
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count303
+\Field@Width=\dimen269
+\Fld@charsize=\dimen270
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+\Hy@abspage=\count304
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count305
+\c@bookmark@seq@number=\count306
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaserequir
+es.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecompat
+ibility.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasefont.s
+ty (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\sansmath
+accent.sty
+Package: sansmathaccent 2020/01/31
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetransl
+ator.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty
+Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasemisc.s
+ty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetwoscr
+eens.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseoverla
+y.sty
+\beamer@argscount=\count307
+\beamer@lastskipcover=\skip51
+\beamer@trivlistdepth=\count308
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetitle.
+sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasesectio
+n.sty
+\c@lecture=\count309
+\c@part=\count310
+\c@section=\count311
+\c@subsection=\count312
+\c@subsubsection=\count313
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframe.
+sty
+\beamer@framebox=\box66
+\beamer@frametitlebox=\box67
+\beamer@zoombox=\box68
+\beamer@zoomcount=\count314
+\beamer@zoomframecount=\count315
+\beamer@frametextheight=\dimen271
+\c@subsectionslide=\count316
+\beamer@frametopskip=\skip52
+\beamer@framebottomskip=\skip53
+\beamer@frametopskipautobreak=\skip54
+\beamer@framebottomskipautobreak=\skip55
+\beamer@envbody=\toks30
+\framewidth=\dimen272
+\c@framenumber=\count317
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseverbat
+im.sty
+\beamer@verbatimfileout=\write4
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframes
+ize.sty
+\beamer@splitbox=\box69
+\beamer@autobreakcount=\count318
+\beamer@autobreaklastheight=\dimen273
+\beamer@frametitletoks=\toks31
+\beamer@framesubtitletoks=\toks32
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseframec
+omponents.sty
+\beamer@footins=\box70
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasecolor.
+sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenotes.
+sty
+\beamer@frameboxcopy=\box71
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetoc.st
+y)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetempla
+tes.sty
+\beamer@sbttoks=\toks33
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseauxtem
+plates.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaseboxes.
+sty
+\bmb@box=\box72
+\bmb@colorbox=\box73
+\bmb@boxwidth=\dimen274
+\bmb@boxheight=\dimen275
+\bmb@prevheight=\dimen276
+\bmb@temp=\dimen277
+\bmb@dima=\dimen278
+\bmb@dimb=\dimen279
+\bmb@prevheight=\dimen280
+)
+\beamer@blockheadheight=\dimen281
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbaselocals
+tructure.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks34
+)
+\beamer@bibiconwidth=\skip56
+\c@figure=\count319
+\c@table=\count320
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tion.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasenaviga
+tionsymbols.tex)
+\beamer@section@min@dim=\dimen282
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasetheore
+ms.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip59
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks35
+\ex@=\dimen283
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen284
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count321
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count322
+\leftroot@=\count323
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count324
+\DOTSCASE@=\count325
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box74
+\strutbox@=\box75
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen285
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count326
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count327
+\dotsspace@=\muskip17
+\c@parentequation=\count328
+\dspbrk@lvl=\count329
+\tag@help=\toks36
+\row@=\count330
+\column@=\count331
+\maxfields@=\count332
+\andhelp@=\toks37
+\eqnshift@=\dimen286
+\alignsep@=\dimen287
+\tagshift@=\dimen288
+\tagwidth@=\dimen289
+\totwidth@=\dimen290
+\lineht@=\dimen291
+\@envbody=\toks38
+\multlinegap=\skip60
+\multlinetaggap=\skip61
+\mathdisplay@stack=\toks39
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks40
+\thm@bodyfont=\toks41
+\thm@headfont=\toks42
+\thm@notefont=\toks43
+\thm@headpunct=\toks44
+\thm@preskip=\skip62
+\thm@postskip=\skip63
+\thm@headsep=\skip64
+\dth@everypar=\toks45
+)
+\c@theorem=\count333
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerbasethemes
+.sty))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemedefau
+lt.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerfontthemed
+efault.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+default.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+default.sty
+\beamer@dima=\dimen292
+\beamer@dimb=\dimen293
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+default.sty)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen294
+\lightrulewidth=\dimen295
+\cmidrulewidth=\dimen296
+\belowrulesep=\dimen297
+\belowbottomsep=\dimen298
+\aboverulesep=\dimen299
+\abovetopsep=\dimen300
+\cmidrulesep=\dimen301
+\cmidrulekern=\dimen302
+\defaultaddspace=\dimen303
+\@cmidla=\count334
+\@cmidlb=\count335
+\@aboverulesep=\dimen304
+\@belowrulesep=\dimen305
+\@thisruleclass=\count336
+\@lastruleclass=\count337
+\@thisrulewidth=\dimen306
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count338
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count339
+\c@listtotal=\count340
+\c@listcount=\count341
+\c@liststart=\count342
+\c@liststop=\count343
+\c@citecount=\count344
+\c@citetotal=\count345
+\c@multicitecount=\count346
+\c@multicitetotal=\count347
+\c@instcount=\count348
+\c@maxnames=\count349
+\c@minnames=\count350
+\c@maxitems=\count351
+\c@minitems=\count352
+\c@citecounter=\count353
+\c@maxcitecounter=\count354
+\c@savedcitecounter=\count355
+\c@uniquelist=\count356
+\c@uniquename=\count357
+\c@refsection=\count358
+\c@refsegment=\count359
+\c@maxextratitle=\count360
+\c@maxextratitleyear=\count361
+\c@maxextraname=\count362
+\c@maxextradate=\count363
+\c@maxextraalpha=\count364
+\c@abbrvpenalty=\count365
+\c@highnamepenalty=\count366
+\c@lownamepenalty=\count367
+\c@maxparens=\count368
+\c@parenlevel=\count369
+\blx@tempcnta=\count370
+\blx@tempcntb=\count371
+\blx@tempcntc=\count372
+\c@blx@maxsection=\count373
+\blx@maxsegment@0=\count374
+\blx@notetype=\count375
+\blx@parenlevel@text=\count376
+\blx@parenlevel@foot=\count377
+\blx@sectionciteorder@0=\count378
+\blx@sectionciteorderinternal@0=\count379
+\blx@entrysetcounter=\count380
+\blx@biblioinstance=\count381
+\labelnumberwidth=\skip79
+\labelalphawidth=\skip80
+\biblabelsep=\skip81
+\bibitemsep=\skip82
+\bibnamesep=\skip83
+\bibinitsep=\skip84
+\bibparsep=\skip85
+\bibhang=\skip86
+\blx@bcfin=\read3
+\blx@bcfout=\write5
+\blx@langwohyphens=\language79
+\c@mincomprange=\count382
+\c@maxcomprange=\count383
+\c@mincompwidth=\count384
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count385
+\c@savedafterword=\count386
+\c@annotator=\count387
+\c@savedannotator=\count388
+\c@author=\count389
+\c@savedauthor=\count390
+\c@bookauthor=\count391
+\c@savedbookauthor=\count392
+\c@commentator=\count393
+\c@savedcommentator=\count394
+\c@editor=\count395
+\c@savededitor=\count396
+\c@editora=\count397
+\c@savededitora=\count398
+\c@editorb=\count399
+\c@savededitorb=\count400
+\c@editorc=\count401
+\c@savededitorc=\count402
+\c@foreword=\count403
+\c@savedforeword=\count404
+\c@holder=\count405
+\c@savedholder=\count406
+\c@introduction=\count407
+\c@savedintroduction=\count408
+\c@namea=\count409
+\c@savednamea=\count410
+\c@nameb=\count411
+\c@savednameb=\count412
+\c@namec=\count413
+\c@savednamec=\count414
+\c@translator=\count415
+\c@savedtranslator=\count416
+\c@shortauthor=\count417
+\c@savedshortauthor=\count418
+\c@shorteditor=\count419
+\c@savedshorteditor=\count420
+\c@labelname=\count421
+\c@savedlabelname=\count422
+\c@institution=\count423
+\c@savedinstitution=\count424
+\c@lista=\count425
+\c@savedlista=\count426
+\c@listb=\count427
+\c@savedlistb=\count428
+\c@listc=\count429
+\c@savedlistc=\count430
+\c@listd=\count431
+\c@savedlistd=\count432
+\c@liste=\count433
+\c@savedliste=\count434
+\c@listf=\count435
+\c@savedlistf=\count436
+\c@location=\count437
+\c@savedlocation=\count438
+\c@organization=\count439
+\c@savedorganization=\count440
+\c@origlocation=\count441
+\c@savedoriglocation=\count442
+\c@origpublisher=\count443
+\c@savedorigpublisher=\count444
+\c@publisher=\count445
+\c@savedpublisher=\count446
+\c@language=\count447
+\c@savedlanguage=\count448
+\c@origlanguage=\count449
+\c@savedoriglanguage=\count450
+\c@pageref=\count451
+\c@savedpageref=\count452
+\shorthandwidth=\skip87
+\shortjournalwidth=\skip88
+\shortserieswidth=\skip89
+\shorttitlewidth=\skip90
+\shortauthorwidth=\skip91
+\shorteditorwidth=\skip92
+\locallabelnumberwidth=\skip93
+\locallabelalphawidth=\skip94
+\localshorthandwidth=\skip95
+\localshortjournalwidth=\skip96
+\localshortserieswidth=\skip97
+\localshorttitlewidth=\skip98
+\localshortauthorwidth=\skip99
+\localshorteditorwidth=\skip100
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+
+Package biblatex Warning: Using fall-back bibtex backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count453
+\c@textcitetotal=\count454
+\c@textcitemaxnames=\count455
+\c@biburlbigbreakpenalty=\count456
+\c@biburlbreakpenalty=\count457
+\c@biburlnumpenalty=\count458
+\c@biburlucpenalty=\count459
+\c@biburllcpenalty=\count460
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count461
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear
+.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count462
+\c@bbx:relatedtotal=\count463
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear
+.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-06-30 L3 programming layer (loader) 
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count464
+\l__pdf_internal_box=\box76
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2023-06-30 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadri
+d.sty
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+whale.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolortheme
+orchid.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+rounded.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+infolines.sty))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\palatino.sty
+Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/opensans\opensans.sty
+Package: opensans 2019/06/20 Style file for Open Sans.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks46
+\XKV@tempa@toks=\toks47
+)
+\XKV@depth=\count465
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnertheme
+circles.sty)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beameroutertheme
+miniframes.sty)
+\@quotelevel=\count466
+\@quotereset=\count467
+LaTeX Font Info:    Trying to load font information for OT1+opensans-TLF on inp
+ut line 114.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/opensans\ot1opensans-tl
+f.fd
+File: OT1opensans-TLF.fd 2019/06/24 Font definitions for OT1/opensans-TLF.
+)
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 114.
+ (template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 433.34402pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=433.34402pt
+* \textheight=227.62207pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count468
+\scratchdimen=\dimen307
+\scratchbox=\box77
+\nofMPsegments=\count469
+\nofMParguments=\count470
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count471
+\MPscratchDim=\dimen308
+\MPnumerator=\count472
+\makeMPintoPDFobject=\count473
+\everyMPtoPDFconversion=\toks49
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 114.
+ (template.out) (template.out)
+\@outlinefile=\write6
+\openout6 = `template.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 114.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 114.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/ppl/m/n on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/phv/b/n on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/phv/m/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/phv/m/n on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/phv/m/it on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/phv/m/it on input line 114.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 114.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 114.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/ppl/b/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/phv/b/n --> OT1/phv/b/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/phv/m/n --> OT1/phv/b/n on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/phv/m/it --> OT1/phv/b/it on input line 114.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 114.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+asic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-b
+ibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-e
+nvironment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-m
+onths-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-n
+umbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-t
+heorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `template-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'template.bbl' not found.
+
+No file template.bbl.
+Package biblatex Info: Reference section=0 on input line 114.
+Package biblatex Info: Reference segment=0 on input line 114.
+\c@mv@tabular=\count474
+\c@mv@boldtabular=\count475
+(template.nav)
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 114.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 123.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 123.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 123.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 4.0pt on input line 123.
+<Images/logo_RGB.png, id=170, 698.61pt x 539.76656pt>
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 123.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [1{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/A
+dmin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/opensans/a_n3lhbv.enc}
+
+{C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/opensans/a_iz27ck
+.enc} <./Images/logo_RGB.png>] (template.toc)
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 135.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [2
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 167.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 167
+.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 167
+.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+67.
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1phv.fd
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 167.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 167.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 167.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 167.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 167.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[3
+
+{C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
+<Images/graph.png, id=598, 199.071pt x 198.633pt>
+File: Images/graph.png Graphic file (type png)
+<use Images/graph.png>
+Package pdftex.def Info: Images/graph.png  used on input line 175.
+(pdftex.def)             Requested size: 124.41905pt x 124.1453pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 175.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[4
+
+ <./Images/graph.png>]
+<Images/undirected-graph.png, id=718, 199.071pt x 198.633pt>
+File: Images/undirected-graph.png Graphic file (type png)
+<use Images/undirected-graph.png>
+Package pdftex.def Info: Images/undirected-graph.png  used on input line 199.
+(pdftex.def)             Requested size: 124.41905pt x 124.1453pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 199.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [5
+
+ <./Images/undirected-graph.png>]
+<Images/directed-graph.png, id=794, 199.071pt x 198.633pt>
+File: Images/directed-graph.png Graphic file (type png)
+<use Images/directed-graph.png>
+Package pdftex.def Info: Images/directed-graph.png  used on input line 199.
+(pdftex.def)             Requested size: 124.41905pt x 124.1453pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 199.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [6
+
+ <./Images/directed-graph.png>]
+<Images/bi-directed-graph.png, id=868, 199.071pt x 198.633pt>
+File: Images/bi-directed-graph.png Graphic file (type png)
+<use Images/bi-directed-graph.png>
+Package pdftex.def Info: Images/bi-directed-graph.png  used on input line 199.
+(pdftex.def)             Requested size: 124.41905pt x 124.1453pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 199.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [7
+
+ <./Images/bi-directed-graph.png>]
+<Images/temp-graph.png, id=989, 547.719pt x 220.971pt>
+File: Images/temp-graph.png Graphic file (type png)
+<use Images/temp-graph.png>
+Package pdftex.def Info: Images/temp-graph.png  used on input line 220.
+(pdftex.def)             Requested size: 346.67653pt x 139.86993pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 220.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [8
+
+ <./Images/temp-graph.png>]
+<Images/vertex-attribute.png, id=1065, 547.719pt x 220.971pt>
+File: Images/vertex-attribute.png Graphic file (type png)
+<use Images/vertex-attribute.png>
+Package pdftex.def Info: Images/vertex-attribute.png  used on input line 220.
+(pdftex.def)             Requested size: 346.67653pt x 139.86993pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 220.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [9
+
+ <./Images/vertex-attribute.png>]
+<Images/edge-attribute.png, id=1140, 547.719pt x 220.971pt>
+File: Images/edge-attribute.png Graphic file (type png)
+<use Images/edge-attribute.png>
+Package pdftex.def Info: Images/edge-attribute.png  used on input line 220.
+(pdftex.def)             Requested size: 346.67653pt x 139.86993pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 220.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [10
+
+ <./Images/edge-attribute.png>]
+<Images/global-attribute.png, id=1214, 550.128pt x 225.57pt>
+File: Images/global-attribute.png Graphic file (type png)
+<use Images/global-attribute.png>
+Package pdftex.def Info: Images/global-attribute.png  used on input line 220.
+(pdftex.def)             Requested size: 346.67653pt x 142.1477pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 220.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[11
+
+ <./Images/global-attribute.png>]
+<Images/embedding-attributes.png, id=1334, 550.347pt x 226.446pt>
+File: Images/embedding-attributes.png Graphic file (type png)
+<use Images/embedding-attributes.png>
+Package pdftex.def Info: Images/embedding-attributes.png  used on input line 22
+7.
+(pdftex.def)             Requested size: 346.67653pt x 142.64099pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 227.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [12
+
+ <./Images/embedding-attributes.png>]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 235.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 235.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[13
+
+]
+<Images/img2graph.png, id=1575, 859.41075pt x 287.27325pt>
+File: Images/img2graph.png Graphic file (type png)
+<use Images/img2graph.png>
+Package pdftex.def Info: Images/img2graph.png  used on input line 241.
+(pdftex.def)             Requested size: 433.34402pt x 144.85048pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 241.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [14
+
+ <./Images/img2graph.png>]
+<Images/text2graph.png, id=1695, 623.712pt x 266.523pt>
+File: Images/text2graph.png Graphic file (type png)
+<use Images/text2graph.png>
+Package pdftex.def Info: Images/text2graph.png  used on input line 247.
+(pdftex.def)             Requested size: 390.00697pt x 166.66185pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 247.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [15
+
+ <./Images/text2graph.png>]
+<Images/molecules-as-graphs.png, id=1815, 749.80125pt x 264.99pt>
+File: Images/molecules-as-graphs.png Graphic file (type png)
+<use Images/molecules-as-graphs.png>
+Package pdftex.def Info: Images/molecules-as-graphs.png  used on input line 269
+.
+(pdftex.def)             Requested size: 242.67252pt x 85.76086pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 269.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [16
+
+ <./Images/molecules-as-graphs.png>]
+<Images/social-networks-as-graphs.png, id=1890, 766.66425pt x 329.43076pt>
+File: Images/social-networks-as-graphs.png Graphic file (type png)
+<use Images/social-networks-as-graphs.png>
+Package pdftex.def Info: Images/social-networks-as-graphs.png  used on input li
+ne 269.
+(pdftex.def)             Requested size: 242.67252pt x 104.2739pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 269.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [17
+
+ <./Images/social-networks-as-graphs.png>]
+<Images/citation-graph.jpg, id=1965, 2779.38374pt x 798.985pt>
+File: Images/citation-graph.jpg Graphic file (type jpg)
+<use Images/citation-graph.jpg>
+Package pdftex.def Info: Images/citation-graph.jpg  used on input line 269.
+(pdftex.def)             Requested size: 273.00368pt x 78.47676pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 269.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[18
+
+ <./Images/citation-graph.jpg>]
+<Images/graph-in-the-wild.png, id=2038, 533.5935pt x 275.22826pt>
+File: Images/graph-in-the-wild.png Graphic file (type png)
+<use Images/graph-in-the-wild.png>
+Package pdftex.def Info: Images/graph-in-the-wild.png  used on input line 269.
+(pdftex.def)             Requested size: 227.50461pt x 117.34633pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 269.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [19
+
+ <./Images/graph-in-the-wild.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 277.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[20
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 323.
+<Images/graph-prediction-wh.png, id=2278, 741.972pt x 193.815pt>
+File: Images/graph-prediction-wh.png Graphic file (type png)
+<use Images/graph-prediction-wh.png>
+Package pdftex.def Info: Images/graph-prediction-wh.png  used on input line 323
+.
+(pdftex.def)             Requested size: 346.67653pt x 90.55481pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 323.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [21
+
+ <./Images/graph-prediction-wh.png>]
+<Images/graph-prediction-input.png, id=2354, 741.972pt x 193.815pt>
+File: Images/graph-prediction-input.png Graphic file (type png)
+<use Images/graph-prediction-input.png>
+Package pdftex.def Info: Images/graph-prediction-input.png  used on input line 
+323.
+(pdftex.def)             Requested size: 346.67653pt x 90.55481pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 323.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [22
+
+ <./Images/graph-prediction-input.png>]
+<Images/graph-prediction-input-output.png, id=2429, 741.972pt x 193.815pt>
+File: Images/graph-prediction-input-output.png Graphic file (type png)
+<use Images/graph-prediction-input-output.png>
+Package pdftex.def Info: Images/graph-prediction-input-output.png  used on inpu
+t line 323.
+(pdftex.def)             Requested size: 346.67653pt x 90.55481pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 323.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [23
+
+ <./Images/graph-prediction-input-output.png>]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 323.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 323.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 323.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 323.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 323.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [24
+
+]
+<Images/node-prediction-h.png, id=2621, 742.191pt x 194.253pt>
+File: Images/node-prediction-h.png Graphic file (type png)
+<use Images/node-prediction-h.png>
+Package pdftex.def Info: Images/node-prediction-h.png  used on input line 368.
+(pdftex.def)             Requested size: 346.67653pt x 90.73279pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 368.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [25
+
+ <./Images/node-prediction-h.png>]
+<Images/node-prediction-input.png, id=2698, 741.972pt x 194.034pt>
+File: Images/node-prediction-input.png Graphic file (type png)
+<use Images/node-prediction-input.png>
+Package pdftex.def Info: Images/node-prediction-input.png  used on input line 3
+68.
+(pdftex.def)             Requested size: 346.67653pt x 90.65714pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 368.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [26
+
+ <./Images/node-prediction-input.png>]
+<Images/node-prediction-input-output.png, id=2773, 741.972pt x 193.815pt>
+File: Images/node-prediction-input-output.png Graphic file (type png)
+<use Images/node-prediction-input-output.png>
+Package pdftex.def Info: Images/node-prediction-input-output.png  used on input
+ line 368.
+(pdftex.def)             Requested size: 346.67653pt x 90.55481pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 368.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [27
+
+ <./Images/node-prediction-input-output.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 368.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [28
+
+]
+<Images/edge-prediction-wh.png, id=2965, 501.072pt x 146.073pt>
+File: Images/edge-prediction-wh.png Graphic file (type png)
+<use Images/edge-prediction-wh.png>
+Package pdftex.def Info: Images/edge-prediction-wh.png  used on input line 427.
+
+(pdftex.def)             Requested size: 346.67653pt x 101.06462pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [29
+
+ <./Images/edge-prediction-wh.png>]
+<Images/edge-prediction-input.png, id=3040, 501.072pt x 146.073pt>
+File: Images/edge-prediction-input.png Graphic file (type png)
+<use Images/edge-prediction-input.png>
+Package pdftex.def Info: Images/edge-prediction-input.png  used on input line 4
+27.
+(pdftex.def)             Requested size: 346.67653pt x 101.06462pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[30
+
+ <./Images/edge-prediction-input.png>]
+<Images/edge-prediction-input-output.png, id=3115, 501.072pt x 145.14224pt>
+File: Images/edge-prediction-input-output.png Graphic file (type png)
+<use Images/edge-prediction-input-output.png>
+Package pdftex.def Info: Images/edge-prediction-input-output.png  used on input
+ line 427.
+(pdftex.def)             Requested size: 346.67653pt x 100.42065pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [31
+
+ <./Images/edge-prediction-input-output.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [32
+
+]
+<Images/graph-and-node-level.png, id=3264, 1580.90625pt x 441.90094pt>
+File: Images/graph-and-node-level.png Graphic file (type png)
+<use Images/graph-and-node-level.png>
+Package pdftex.def Info: Images/graph-and-node-level.png  used on input line 42
+7.
+(pdftex.def)             Requested size: 433.34402pt x 121.12868pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [33
+
+ <./Images/graph-and-node-level.png>]
+<Images/node-and-edge-level.png, id=3338, 1580.90625pt x 680.5425pt>
+File: Images/node-and-edge-level.png Graphic file (type png)
+<use Images/node-and-edge-level.png>
+Package pdftex.def Info: Images/node-and-edge-level.png  used on input line 427
+.
+(pdftex.def)             Requested size: 368.34506pt x 158.55678pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 427.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [34
+
+ <./Images/node-and-edge-level.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 435.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [35
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 465.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [36
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 465.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 465.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [37
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 476.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [38
+
+]
+
+LaTeX Warning: File `Images/adjacency-list.png' not found on input line 484.
+
+
+! Package pdftex.def Error: File `Images/adjacency-list.png' not found: using d
+raft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.484 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 4
+84.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 484.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[39
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 496.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [40
+
+]
+<Images/simplest-gnn.png, id=4125, 583.4598pt x 217.2115pt>
+File: Images/simplest-gnn.png Graphic file (type png)
+<use Images/simplest-gnn.png>
+Package pdftex.def Info: Images/simplest-gnn.png  used on input line 504.
+(pdftex.def)             Requested size: 390.00697pt x 145.1962pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 504.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [41
+
+ <./Images/simplest-gnn.png>]
+<Images/gnn-prediction.png, id=4245, 942.6417pt x 295.22295pt>
+File: Images/gnn-prediction.png Graphic file (type png)
+<use Images/gnn-prediction.png>
+Package pdftex.def Info: Images/gnn-prediction.png  used on input line 514.
+(pdftex.def)             Requested size: 433.34402pt x 135.7186pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 514.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [42
+
+ <./Images/gnn-prediction.png (PNG copy)>]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 530.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 530.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [43
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 530.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [44
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 530.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [45
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 530.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [46
+
+]
+<Images/pooling-edges-1.png, id=4702, 521.5485pt x 216.20775pt>
+File: Images/pooling-edges-1.png Graphic file (type png)
+<use Images/pooling-edges-1.png>
+Package pdftex.def Info: Images/pooling-edges-1.png  used on input line 547.
+(pdftex.def)             Requested size: 325.00801pt x 134.73361pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 547.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [47
+
+ <./Images/pooling-edges-1.png>]
+<Images/pooling-edges-2.png, id=4777, 519.74174pt x 237.2865pt>
+File: Images/pooling-edges-2.png Graphic file (type png)
+<use Images/pooling-edges-2.png>
+Package pdftex.def Info: Images/pooling-edges-2.png  used on input line 547.
+(pdftex.def)             Requested size: 325.00801pt x 148.38696pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 547.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [48
+
+ <./Images/pooling-edges-2.png>]
+<Images/nodes-prediction-pooling-edges.png, id=4897, 557.6835pt x 218.8978pt>
+File: Images/nodes-prediction-pooling-edges.png Graphic file (type png)
+<use Images/nodes-prediction-pooling-edges.png>
+Package pdftex.def Info: Images/nodes-prediction-pooling-edges.png  used on inp
+ut line 571.
+(pdftex.def)             Requested size: 325.00801pt x 127.57538pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 571.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [49
+
+ <./Images/nodes-prediction-pooling-edges.png>]
+<Images/edges-prediction-pooling-nodes.png, id=4974, 534.3965pt x 230.9428pt>
+File: Images/edges-prediction-pooling-nodes.png Graphic file (type png)
+<use Images/edges-prediction-pooling-nodes.png>
+Package pdftex.def Info: Images/edges-prediction-pooling-nodes.png  used on inp
+ut line 571.
+(pdftex.def)             Requested size: 325.00801pt x 140.45908pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 571.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[50
+
+ <./Images/edges-prediction-pooling-nodes.png>]
+<Images/graph-prediction-pooling-nodes.png, id=5048, 560.7349pt x 236.8047pt>
+File: Images/graph-prediction-pooling-nodes.png Graphic file (type png)
+<use Images/graph-prediction-pooling-nodes.png>
+Package pdftex.def Info: Images/graph-prediction-pooling-nodes.png  used on inp
+ut line 571.
+(pdftex.def)             Requested size: 325.00801pt x 137.25647pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 571.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [51
+
+ <./Images/graph-prediction-pooling-nodes.png>]
+<Images/end2end-prediction.png, id=5168, 1103.20155pt x 220.9053pt>
+File: Images/end2end-prediction.png Graphic file (type png)
+<use Images/end2end-prediction.png>
+Package pdftex.def Info: Images/end2end-prediction.png  used on input line 579.
+
+(pdftex.def)             Requested size: 325.00801pt x 65.07886pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 579.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [52
+
+ <./Images/end2end-prediction.png (PNG copy)>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 590.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[53
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 603.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [54
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 603.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [55
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 619.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [56
+
+]
+<Images/message-passing.png, id=5715, 776.9025pt x 257.763pt>
+File: Images/message-passing.png Graphic file (type png)
+<use Images/message-passing.png>
+Package pdftex.def Info: Images/message-passing.png  used on input line 627.
+(pdftex.def)             Requested size: 346.67653pt x 115.02472pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 627.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [57
+
+ <./Images/message-passing.png>]
+<Images/GCN-schematic.png, id=5835, 583.5401pt x 243.3893pt>
+File: Images/GCN-schematic.png Graphic file (type png)
+<use Images/GCN-schematic.png>
+Package pdftex.def Info: Images/GCN-schematic.png  used on input line 635.
+(pdftex.def)             Requested size: 346.67653pt x 144.59744pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 635.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [58
+
+ <./Images/GCN-schematic.png>]
+<Images/message-passing-schematic.png, id=5955, 583.5401pt x 246.2801pt>
+File: Images/message-passing-schematic.png Graphic file (type png)
+<use Images/message-passing-schematic.png>
+Package pdftex.def Info: Images/message-passing-schematic.png  used on input li
+ne 643.
+(pdftex.def)             Requested size: 346.67653pt x 146.31488pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 643.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [59
+
+ <./Images/message-passing-schematic.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 657.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [60
+
+]
+<Images/graph-net-schematic-with-global-representations.png, id=6193, 583.5401p
+t x 240.097pt>
+File: Images/graph-net-schematic-with-global-representations.png Graphic file (
+type png)
+<use Images/graph-net-schematic-with-global-representations.png>
+Package pdftex.def Info: Images/graph-net-schematic-with-global-representations
+.png  used on input line 672.
+(pdftex.def)             Requested size: 346.67653pt x 142.6415pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 672.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [61
+
+ <./Images/graph-net-schematic-with-global-representations.png>]
+<Images/conditioning-schematic.png, id=6268, 605.462pt x 215.6055pt>
+File: Images/conditioning-schematic.png Graphic file (type png)
+<use Images/conditioning-schematic.png>
+Package pdftex.def Info: Images/conditioning-schematic.png  used on input line 
+672.
+(pdftex.def)             Requested size: 346.67653pt x 123.45567pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 672.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [62
+
+ <./Images/conditioning-schematic.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 679.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [63
+
+]
+<Images/multigraphs.png, id=6504, 2041.8684pt x 982.872pt>
+File: Images/multigraphs.png Graphic file (type png)
+<use Images/multigraphs.png>
+Package pdftex.def Info: Images/multigraphs.png  used on input line 685.
+(pdftex.def)             Requested size: 346.67653pt x 166.87607pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 685.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [64
+
+ <./Images/multigraphs.png>]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 693.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [65
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 706.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [66
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 706.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [67
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 706.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [68
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 706.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[69
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 706.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [70
+
+]
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 720.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [71
+
+]
+<Images/samplings.png, id=7271, 2036.0868pt x 1986.9432pt>
+File: Images/samplings.png Graphic file (type png)
+<use Images/samplings.png>
+Package pdftex.def Info: Images/samplings.png  used on input line 729.
+(pdftex.def)             Requested size: 346.67653pt x 338.29129pt.
+
+Overfull \vbox (172.30782pt too high) detected at line 729
+ []
+
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 729.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+[72
+
+ <./Images/samplings.png>]
+<Images/permutation_invariant.png, id=7391, 676.5275pt x 312.16624pt>
+File: Images/permutation_invariant.png Graphic file (type png)
+<use Images/permutation_invariant.png>
+Package pdftex.def Info: Images/permutation_invariant.png  used on input line 7
+41.
+(pdftex.def)             Requested size: 338.26291pt x 156.08273pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 741.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+ [73
+
+ <./Images/permutation_invariant.png>]
+<Images/long_range_dependency.png, id=7465, 718.685pt x 240.9pt>
+File: Images/long_range_dependency.png Graphic file (type png)
+<use Images/long_range_dependency.png>
+Package pdftex.def Info: Images/long_range_dependency.png  used on input line 7
+41.
+(pdftex.def)             Requested size: 359.34161pt x 120.44969pt.
+File: Images/logo_RGB.png Graphic file (type png)
+<use Images/logo_RGB.png>
+Package pdftex.def Info: Images/logo_RGB.png  used on input line 741.
+(pdftex.def)             Requested size: 42.67912pt x 32.96936pt.
+
+[74
+
+ <./Images/long_range_dependency.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\translate ' on input line 750.
+
+
+LaTeX Warning: Empty bibliography on input line 761.
+
+LaTeX Font Info:    Trying to load font information for OMS+opensans-TLF on inp
+ut line 761.
+LaTeX Font Info:    No file OMSopensans-TLF.fd. on input line 761.
+
+LaTeX Font Warning: Font shape `OMS/opensans-TLF/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 761.
+
+! You can't use `\prevdepth' in horizontal mode.
+\nointerlineskip ->\prevdepth 
+                              -\@m \p@ 
+l.761 \end{frame}
+                 
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.761 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 761.
+! Missing number, treated as zero.
+<to be read again> 
+                   \advance 
+l.761 \end{frame}
+                 
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \advance 
+l.761 \end{frame}
+                 
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+! Dimension too large.
+<recently read> \p@ 
+                    
+l.761 \end{frame}
+                 
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+Overfull \hbox (256.0748pt too wide) detected at line 761
+ [] 
+ []
+
+! Extra }, or forgotten $.
+\beamer@usebeamertemplatedosss ...l@#1\endcsname }
+                                                  }
+l.761 \end{frame}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\beamer@usebeamertemplatedosss ...@#1\endcsname }}
+                                                  
+l.761 \end{frame}
+                 
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.761 \end{frame}
+                 
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no è in font cmex10!
+
+Underfull \vbox (badness 1122) detected at line 761
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.761 \end{frame}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.761 \end{frame}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+\tf@nav=\write7
+\openout7 = `template.nav'.
+
+\tf@toc=\write8
+\openout8 = `template.toc'.
+
+\tf@snm=\write9
+\openout9 = `template.snm'.
+
+(template.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+Package rerunfilecheck Warning: File `template.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template.out':
+(rerunfilecheck)             Before: 519AF5C050EEF76889038BCA0F974B30;2567
+(rerunfilecheck)             After:  C15AE1D72753D75FD0AAFBF220E47D9C;2485.
+Package logreq Info: Writing requests to 'template.run.xml'.
+\openout1 = `template.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 30314 strings out of 475551
+ 605388 string characters out of 5762554
+ 1957238 words of memory out of 5000000
+ 50786 multiletter control sequences out of 15000+600000
+ 592908 words of font info for 124 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 128i,19n,123p,1880b,852s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Navigation75} has been referenced but does not exis
+t, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Outline1} has been referenced but does not exist, r
+eplaced by a fixed one
+
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ascender/opensans/Ope
+nSans-Bold.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ascend
+er/opensans/OpenSans-Italic.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/f
+onts/type1/ascender/opensans/OpenSans-Regular.pfb><C:/Users/Admin/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/A
+dmin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucr
+r8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/
+uhvro8a.pfb>
+Output written on template.pdf (74 pages, 14796712 bytes).
+PDF statistics:
+ 7619 PDF objects out of 8907 (max. 8388607)
+ 164 named destinations out of 1000 (max. 500000)
+ 447 words of extra memory for PDF output out of 10000 (max. 10000000)
+

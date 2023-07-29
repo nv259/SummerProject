@@ -1,0 +1,117 @@
+\headcommand {\beamer@sectionpages {1}{0}}
+\headcommand {\beamer@subsectionpages {1}{0}}
+\headcommand {\slideentry {1}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\sectionentry {2}{Fantastic Graphs and Where to Find Them}{3}{Fantastic Graphs and Where to Find Them}{0}}
+\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{3}{What is a Graph?}}
+\headcommand {\slideentry {2}{1}{1}{3/3}{What is a Graph?}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {2}{1}{2}{4/4}{What is a Graph?}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {2}{1}{3}{5/7}{What is a Graph?}{0}}
+\headcommand {\beamer@framepages {5}{7}}
+\headcommand {\slideentry {2}{1}{4}{8/11}{What is a Graph?}{0}}
+\headcommand {\beamer@framepages {8}{11}}
+\headcommand {\slideentry {2}{1}{5}{12/12}{What is a Graph?}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\beamer@subsectionpages {3}{12}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{13}{Where to Find them?}}
+\headcommand {\slideentry {2}{2}{1}{13/13}{Where to Find them?}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {2}{2}{2}{14/14}{Where to Find them?}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {2}{2}{3}{15/15}{Where to Find them?}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {2}{2}{4}{16/19}{Where to Find them?}{0}}
+\headcommand {\beamer@framepages {16}{19}}
+\headcommand {\beamer@subsectionpages {13}{19}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{20}{What Tasks to Perform on Graphs?}}
+\headcommand {\slideentry {2}{3}{1}{20/20}{What Tasks to Perform on Graphs?}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {2}{3}{2}{21/24}{What Tasks to Perform on Graphs?}{0}}
+\headcommand {\beamer@framepages {21}{24}}
+\headcommand {\slideentry {2}{3}{3}{25/28}{What Tasks to Perform on Graphs?}{0}}
+\headcommand {\beamer@framepages {25}{28}}
+\headcommand {\slideentry {2}{3}{4}{29/34}{What Tasks to Perform on Graphs?}{0}}
+\headcommand {\beamer@framepages {29}{34}}
+\headcommand {\beamer@subsectionpages {20}{34}}
+\headcommand {\beamer@subsectionentry {0}{2}{4}{35}{The challenges of using graphs in ML}}
+\headcommand {\slideentry {2}{4}{1}{35/35}{The challenges of using graphs in ML}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {2}{4}{2}{36/37}{The challenges of using graphs in ML}{0}}
+\headcommand {\beamer@framepages {36}{37}}
+\headcommand {\slideentry {2}{4}{3}{38/38}{The challenges of using graphs in ML}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\slideentry {2}{4}{4}{39/39}{The challenges of using graphs in ML}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\beamer@sectionpages {3}{39}}
+\headcommand {\beamer@subsectionpages {35}{39}}
+\headcommand {\sectionentry {3}{Graph Neural Networks}{40}{Graph Neural Networks}{0}}
+\headcommand {\beamer@subsectionpages {40}{39}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{40}{The simplest GNN}}
+\headcommand {\slideentry {3}{1}{1}{40/40}{The simplest GNN}{0}}
+\headcommand {\beamer@framepages {40}{40}}
+\headcommand {\slideentry {3}{1}{2}{41/41}{The simplest GNN}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@subsectionpages {40}{41}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{42}{GNN Predictions by Pooling Information}}
+\headcommand {\slideentry {3}{2}{1}{42/42}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {3}{2}{2}{43/46}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {43}{46}}
+\headcommand {\slideentry {3}{2}{3}{47/48}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {47}{48}}
+\headcommand {\slideentry {3}{2}{4}{49/51}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {49}{51}}
+\headcommand {\slideentry {3}{2}{5}{52/52}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\slideentry {3}{2}{6}{53/53}{GNN Predictions by Pooling Information}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\beamer@subsectionpages {42}{53}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{54}{Passing messages between parts of the graph}}
+\headcommand {\slideentry {3}{3}{1}{54/55}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {54}{55}}
+\headcommand {\slideentry {3}{3}{2}{56/56}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {56}{56}}
+\headcommand {\slideentry {3}{3}{3}{57/57}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {57}{57}}
+\headcommand {\slideentry {3}{3}{4}{58/58}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {58}{58}}
+\headcommand {\slideentry {3}{3}{5}{59/59}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {59}{59}}
+\headcommand {\slideentry {3}{3}{6}{60/60}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {3}{3}{7}{61/62}{Passing messages between parts of the graph}{0}}
+\headcommand {\beamer@framepages {61}{62}}
+\headcommand {\beamer@sectionpages {40}{62}}
+\headcommand {\beamer@subsectionpages {54}{62}}
+\headcommand {\sectionentry {4}{Into the Weeds}{63}{Into the Weeds}{0}}
+\headcommand {\slideentry {4}{0}{1}{63/63}{}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\beamer@subsectionpages {63}{63}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{64}{Other types of graphs}}
+\headcommand {\slideentry {4}{1}{1}{64/64}{Other types of graphs}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@subsectionpages {64}{64}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{65}{Sampling Graphs and Batching in GNNs}}
+\headcommand {\slideentry {4}{2}{1}{65/65}{Sampling Graphs and Batching in GNNs}{0}}
+\headcommand {\beamer@framepages {65}{65}}
+\headcommand {\slideentry {4}{2}{2}{66/70}{Sampling Graphs and Batching in GNNs}{0}}
+\headcommand {\beamer@framepages {66}{70}}
+\headcommand {\slideentry {4}{2}{3}{71/71}{Sampling Graphs and Batching in GNNs}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\slideentry {4}{2}{4}{72/72}{Sampling Graphs and Batching in GNNs}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {4}{2}{5}{73/74}{Sampling Graphs and Batching in GNNs}{0}}
+\headcommand {\beamer@framepages {73}{74}}
+\headcommand {\gdef \insertmainframenumber {41}}
+\headcommand {\beamer@partpages {75}{74}}
+\headcommand {\beamer@subsectionpages {75}{74}}
+\headcommand {\beamer@sectionpages {75}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\gdef \inserttotalframenumber {41}}
